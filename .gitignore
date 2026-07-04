@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Model Files (remove this line if you want to upload the model)
+*.h5
+*.keras
+*.pb
+
+# Dataset
+dataset/
+data/
+brain-tumor-data-mri/
+*.zip
+
+# Environment Variables
+.env
+
+# Temporary Files
+*.tmp
+*.bak
+
+# Build
+dist/
+build/
