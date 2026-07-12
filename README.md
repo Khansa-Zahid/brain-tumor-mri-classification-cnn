@@ -162,17 +162,6 @@ Since this repository focuses on reproducibility, exact performance metrics are 
 
 ---
 
-# 📷 Screenshots
-
-Add these images to the `assets` folder and uncomment if available:
-
-```markdown
-![Training Curves](assets/Training_Accuracy_loss.png)
-
-![Prediction](assets/Prediction_result.png)
-```
-
----
 
 # 🔮 Future Improvements
 
